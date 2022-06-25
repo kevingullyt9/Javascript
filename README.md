@@ -9,4 +9,8 @@ command:
 
 npm i prompt-sync
 
+or 
 
+npm init -y
+
+if you 
